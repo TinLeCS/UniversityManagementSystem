@@ -1,0 +1,52 @@
+/* 
+    Document   : Manager
+    Created on : May 7, 2012, 8:10:00 PM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+    Document   : Student
+    Created on : May 7, 2012, 6:37:15 PM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background: url('../Images/Background.jpg') 0 50px repeat-y;
+}
+
+a{
+    color: blue;
+}
+
+#top{
+    position: absolute;
+    left:171px;
+    width:1024px;
+    height:150px
+}
+
+#body{
+    position: absolute;
+    left:171px;
+    top:180px;
+    width:1024px
+}
+
+.icon{
+    position: absolute;
+    top:20px;
+    width:128px;
+    height:128px
+}
+
+.edit{
+    width: 250px;
+}
+
+.num{
+    width: 35px;
+}

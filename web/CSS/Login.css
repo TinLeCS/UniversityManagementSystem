@@ -1,0 +1,24 @@
+/* 
+    Document   : login
+    Created on : May 7, 2012, 10:19:32 AM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background: url('../Images/Login Background.jpg') no-repeat;
+}
+#banner{
+    position: absolute;
+    left: 325px    
+}
+#login{
+    position: absolute;
+    top: 450px;
+    left: 430px
+}
+
+.edit{
+    width: 125px;
+}

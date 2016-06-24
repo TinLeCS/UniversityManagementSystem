@@ -1,0 +1,22 @@
+
+body{
+	background: url('../Images/Manager Background.jpg') no-repeat center top;
+}
+
+.icon{
+    position: absolute;
+    left:1050px; 
+    width:128px; 
+    height:128px
+}
+
+#logout{
+    width: 128px;
+    height: 128px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent url("../Images/Logout.png") no-repeat center top;
+    text-indent: -1000em;
+    cursor: pointer;
+}

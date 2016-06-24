@@ -1,0 +1,36 @@
+/* 
+    Document   : Student
+    Created on : Apr 30, 2012, 7:02:50 PM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+	background: url('../Images/Student Background.jpg') no-repeat center top;
+}
+
+.icon{
+    position: absolute;
+    width:128px; 
+    height:128px
+}
+
+#message{
+    position: absolute;
+    left:950px;
+    top:315px;
+    width:195px;
+    height: 180px;
+}
+
+#logout{
+    width: 128px;
+    height: 128px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent url("../Images/Logout.png") no-repeat center top;
+    text-indent: -1000em;
+    cursor: pointer;
+}

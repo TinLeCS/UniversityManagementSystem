@@ -1,0 +1,77 @@
+/* 
+    Document   : Manager
+    Created on : May 7, 2012, 8:10:00 PM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background: url('../Images/Manage Student Background.jpg') 0 50px repeat-y;
+}
+
+a{
+    color: blue;
+}
+
+#top{
+    position: absolute;
+    left:171px;
+    width:1024px;
+    height:150px
+}
+
+#body{
+    position: absolute;
+    left:171px;
+    top:180px;
+    width:1024px
+}
+
+#update {
+    width: 74px;
+    height: 42px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent url("../Images/Update Button.png") no-repeat center top;
+    text-indent: -1000em;
+    cursor: pointer;
+}
+
+#submit {
+    width: 74px;
+    height: 42px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent url("../Images/Submit Button.png") no-repeat center top;
+    text-indent: -1000em;
+    cursor: pointer;
+}
+
+#addButton {
+    width: 74px;
+    height: 42px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent url("../Images/Add Button.png") no-repeat center top;
+    text-indent: -1000em;
+    cursor: pointer;
+}
+
+.icon{
+    position: absolute;
+    top:20px;
+    width:128px;
+    height:128px
+}
+
+.edit{
+    width: 250px;
+}
+
+.num{
+    width: 35px;
+}
